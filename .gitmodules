@@ -1,3 +1,4 @@
 [submodule "python/mtgcard"]
 	path = python/mtgcard
-	url = https://github.com/yoshi1123/mtgcard.git
+	url = https://github.com/Kr4u7/mtgcard.git
+	branch = master
